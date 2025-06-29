@@ -3,7 +3,7 @@
 Project is focused on recreation the way of general manager of Oakland Athletics Billy Beane and his assistant Paul DePodesta thought when they used data-drive approach to promote to playoff series. It's the textbook case of using such an approach in sports. I was inspired by the other people who did the similar thing, but I try to dig deeper to do it another way. I also used some simple ML models without solid tuning.
 
 ## Project structure 🗂️
-Project is based on three folders
+Project consists of three folders
 
 - `data` — contains all the datasets
 - `notebooks` — contains two Google Colab notebooks: data wrangling and modeling in `.ipynb` format
